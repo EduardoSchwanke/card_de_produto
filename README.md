@@ -1,4 +1,4 @@
-<h1 align="center">Botões e cursores</h1>
+<h1 align="center">Card de produto</h1>
 
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗 React</a>
