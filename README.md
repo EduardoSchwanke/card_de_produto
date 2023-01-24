@@ -5,7 +5,7 @@
 </h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-![](https://github.com/EduardoSchwanke/botoes_e_cursores/blob/main/src/assets/desadiodois.gif)
+![](https://github.com/EduardoSchwanke/card_de_produto/blob/main/src/assets/desafiodois.gif)
 
 
 ### 🛠 Tecnologias
